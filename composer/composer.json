@@ -1,0 +1,16 @@
+{
+    "name": "composer/1",
+    "description": "Test Description",
+    "authors": [
+        {
+            "name": "rakib",
+            "email": "i.rakib7500@gmail.com"
+        }
+    ],
+	"autoload": {
+	   "psr-4": {
+	      "App\\" : "src"
+	   }
+	},
+    "require": {}
+}
